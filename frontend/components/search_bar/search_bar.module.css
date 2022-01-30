@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    padding: 0.5em;
+    margin: 1em;
+    border-radius: 0.2em;
+    border: 1px solid #333;
+    align-items: center;
+    justify-content: center;
+    background: url("/search.png") #fff no-repeat  5px 5px;
+    background-size: 30px;
+    padding-left:40px;
+    width: 350px;
+}
