@@ -1,0 +1,14 @@
+.button{
+    display: flex;
+    padding: 0.5em;
+    margin: 1em;
+    border-radius: 0.2em;
+    border: 1px solid #333;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+.search_container{
+display: flex;
+flex-direction: row;
+}
