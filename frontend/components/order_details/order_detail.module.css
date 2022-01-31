@@ -1,0 +1,36 @@
+.row{
+    display: flex;
+    margin: 1em;
+    align-items:flex-end;
+}
+
+.label{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+}
+
+.value{
+    display: flex;
+    flex: 2;
+    justify-content: left;
+    margin-left: 1em;
+}
+
+.input{
+    display: flex;
+    flex: 3;
+    border-radius: 0.3em;
+    border : 1px solid #333;
+}
+
+.column{
+    background-color: #fff;
+    border-radius: 0.3em;
+    border : 1px solid #333;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+
